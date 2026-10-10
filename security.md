@@ -141,4 +141,4 @@ El botón verde en la sección Inicio rápido.
 | Common questions | [FAQ](#faq) |
 | Download | [Download](#download) |
 
-*divine-walrus-227 · Actualizado 2026-10-09 · Compartido bajo licencia MIT*
+*divine-walrus-227 · Actualizado 2026-10-10 · Compartido bajo licencia MIT*
